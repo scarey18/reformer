@@ -25,7 +25,7 @@ SECRET_KEY = 'ctx=r)%py2_rpcj4hkhe5#t0kiggbq@841d%m$k^mja0rty%g@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['192.168.9.3']
 
 
 # Application definition
